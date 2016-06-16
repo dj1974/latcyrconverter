@@ -1,0 +1,20 @@
+/*
+ * Empty Stylesheet file.
+ */
+
+.mainFxmlClass {
+    -fx-background-color:beige;
+}
+
+.txtInput{
+    -fx-background-color: darkorange;
+    -fx-text-fill: white;
+}
+
+.label{
+    -fx-text-fill:#9b6f14 ;
+}
+
+.text{
+    -fx-text-fill:#9b6f14 ;
+}
