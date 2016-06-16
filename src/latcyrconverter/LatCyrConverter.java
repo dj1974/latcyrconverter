@@ -36,7 +36,7 @@ public class LatCyrConverter extends Application {
         
         Scene scene = new Scene(root, 300, 250);
         
-        primaryStage.setTitle("ConverterFX");
+        primaryStage.setTitle("ConverterFXX");
         primaryStage.setScene(scene);
         primaryStage.show();
     }
